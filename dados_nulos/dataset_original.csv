@@ -1,0 +1,6 @@
+     nome  idade   cidade salario
+0     ana   23.0   Maputo    5000
+1   bruno    NaN    beira    6000
+2  carlos   35.0   MAPUTO     NaN
+3     ana   23.0  nampula    7000
+4     NaN   29.0      NaN     NaN
